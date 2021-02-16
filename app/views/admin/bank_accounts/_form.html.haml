@@ -4,6 +4,7 @@
     %h3= @bank_account.new_record? ? t('.title_new') : t('.title_edit')
   .modal-body
     = f.input :name
+    = f.input :holder
     = f.input :iban
     = f.input :description, as: :text
     = f.input :balance

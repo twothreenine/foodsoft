@@ -2,7 +2,7 @@ class BankAccount < ApplicationRecord
 
   has_many :bank_transactions, dependent: :destroy
 
-  normalize_attributes :name, :iban, :description
+  normalize_attributes :name, :holder, :iban, :description
 
   validates :name, :presence => true, :uniqueness => true, :length => { :minimum => 2 }
   validates :iban, :presence => true, :uniqueness => true

@@ -38,6 +38,7 @@ en:
         description: Description
         iban: IBAN
         name: Name
+        holder: Holder
       bank_transaction:
         amount: Amount
         date: Date
