@@ -129,6 +129,8 @@ de:
           price: Kosten anhand der Bestellsumme aufteilen
           skip: Kosten nicht auf die Bestellgruppen aufteilen
         updated_by: Zuletzt geändert von
+        supplier_note: Notiz zum Lieferanten
+        order_note: Notiz zur Bestellung
       order_article:
         article: Artikel
         missing_units: Fehlende Einheiten

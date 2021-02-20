@@ -81,6 +81,8 @@ fr:
         status: Statut
         supplier: Fournisseu-r-se
         updated_by: Dernière modification par
+        supplier_note: Note sur fournisseur-e
+        order_note: Note de commande
       order_article:
         missing_units: Nombre d'unités manquantes pour compléter le lot en cours
         missing_units_short: Manquant

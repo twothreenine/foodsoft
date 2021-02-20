@@ -129,6 +129,8 @@ es:
           price: Distribuya los costos entre la suma del pedido
           skip: No distribuya los costos
         updated_by: Editado por última vez por
+        supplier_note: Nota sobre el proveedor
+        order_note: Nota de pedido
       order_article:
         article: Artículo
         missing_units: Unidades que faltan

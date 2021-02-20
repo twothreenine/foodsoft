@@ -129,6 +129,8 @@ en:
           price: Distribute the costs among the order sum
           skip: Do not distribute the costs
         updated_by: Last edited by
+        supplier_note: Supplier note
+        order_note: Order note
       order_article:
         article: Article
         missing_units: Missing units

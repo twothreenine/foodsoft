@@ -129,6 +129,8 @@ nl:
           price: Verdeel de kosten over het orderbedrag
           skip: Verdeel de kosten niet
         updated_by: Laatst aangepast door
+        supplier_note: Opmerking over de leverancier
+        order_note: Bestel nota
       order_article:
         article: Artikel
         missing_units: Missende eenheden
